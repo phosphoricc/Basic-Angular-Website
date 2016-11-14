@@ -1,2 +1,2 @@
 # Basic-Angular-Website
-Check it here https://embed.plnkr.co/UdvXQJwP30Vmk3akKSPy/
+Check it here https://run.plnkr.co/plunks/UdvXQJwP30Vmk3akKSPy/#/main
