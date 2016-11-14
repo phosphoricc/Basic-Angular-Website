@@ -7,4 +7,4 @@
  - Plunkr Setup & Main Controller
  - Fetching Data with $http
 
-Check it here [Project] ( https://run.plnkr.co/plunks/UdvXQJwP30Vmk3akKSPy/#/main)
+[Check it here]( https://run.plnkr.co/plunks/UdvXQJwP30Vmk3akKSPy/#/main)
